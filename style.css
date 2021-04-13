@@ -1,0 +1,45 @@
+body {
+    background-image: url('img/background.jpg');
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+}
+
+.stred {
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: whitesmoke;
+    text-align: center;
+}
+
+#padding {
+    padding: 100px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: black;
+    border-width: 2px;
+    border-style: outset;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#bezpecnost {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
